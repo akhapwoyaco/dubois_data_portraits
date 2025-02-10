@@ -4,3 +4,8 @@
 .Ruserdata
 **/renv/
 .Rprofile
+*.pdf
+*.txt
+**/2022/
+**/2023/
+**/2024/
